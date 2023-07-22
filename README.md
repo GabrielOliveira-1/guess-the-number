@@ -31,4 +31,4 @@ If you would like to contribute to the development of this game in any form, fee
 
 ## Acknowledgment
 
-The game idea and initial implementation are inspired by the course 'The Complete JavaScript Course 2023: From Zero to Expert!' by Joans Schmedtmann, the characteristics and layout of the app are also inspired by various similar projects available online and of course my own ideas.
+The game idea and initial implementation are inspired by the course 'The Complete JavaScript Course 2023: From Zero to Expert!' by Joans Schmedtmann, the characteristics and layout of the app are also inspired by various similar projects available online and my own ideas.
